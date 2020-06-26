@@ -1,0 +1,98 @@
+.main {
+    margin: 0 auto;
+    border: 2px solid rgb(46, 44, 44);
+    width: 350px;
+    height: 500px;
+    margin-top: 95px;
+   background-color: #E8F5E9;
+    box-shadow: 1px 4px 10px;
+    border-radius: 5px;
+    text-align: center;   
+}
+
+.add{
+    width: 345px;
+    height :150px;
+    font-size: 40px;
+    background-color:#C8E6C9 ;
+}
+
+:hover.add{
+    background-color: #F1F8E9;
+  }
+
+
+
+
+
+.clearBtn{
+    width:200px;
+    height:50px;
+    margin-top: 4px;
+    background-color :  #A5D6A7 ;
+    box-shadow: 1px 2px 3px;
+    border-radius: 25px;
+    font-weight: 100;
+}
+
+
+:hover.clearBtn{
+    background-color:#2E7D32 ;
+  }
+
+
+.percentBtn{
+    width:95px;
+    margin-left: 0px;
+    height: 50px;
+    margin-top: 4px;
+    background-color :  #A5D6A7 ;
+    box-shadow: 1px 1px 0px;
+    border-radius: 35px;
+   
+}
+
+:hover.percentBtn{
+    background-color:#2E7D32 ;
+  }
+
+
+.btn{
+    width: 70px;
+    margin: 1px;
+    height : 60px;
+    margin-top: 10px;
+    background-color :  #A5D6A7 ;
+    box-shadow: 1px 2px 3px;
+    border-radius: 25px;
+  
+}
+
+
+
+:hover.btn{
+  background-color:#2E7D32 ;
+}
+
+
+
+
+
+.better{
+    width:70px;
+    margin: 1px;
+    height: 60px;
+    margin-top: 10px;
+    background-color :  #A5D6A7 ;
+    border-radius: 25px;
+    box-shadow: 1px 2px 3px;
+}
+
+
+:hover.better{
+    background-color:#2E7D32 ;
+  }
+
+body{
+   background-color:#E8F5E9 ;
+    }
